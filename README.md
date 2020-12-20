@@ -1,5 +1,11 @@
 # What-Do-You-Meme-CPSC
-Group Project for SENG 513
+Group Project
+Members:
+Luc
+Ana
+Matt 
+Ejaaz
+Bobby
 
 # Instructions for if you have package lock errors
 run npm cache clean --force
